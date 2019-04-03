@@ -1,0 +1,27 @@
+{
+  "baseUrl": "https://news.sky.com/",
+  "homepageTitle": "The Latest News from the UK and Around the World | Sky News",
+  "oceanRescueTitle": "Ocean Rescue - Latest news from Sky's Ocean Rescue activity | Sky News",
+  "categories": [
+    {
+      "title": "Home",
+      "header": "Top Stories"
+    },
+    {
+      "title": "UK",
+      "header": "UK"
+    },
+    {
+      "title": "World",
+      "header": "World"
+    },
+    {
+      "title": "Politics",
+      "header": "Politics"
+    },
+    {
+      "title": "Ocean Rescue",
+      "header": "Ocean Rescue"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "skytest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "",
+    "cucumber": ".\\node_modules\\.bin\\cucumber-js"
+  },
+  "author": "Usha",
+  "license": "ISC",
+  "dependencies": {
+    "cucumber": "^5.1.0",
+    "i": "^0.3.6",
+    "mocha": "^5.2.0",
+    "npm": "^6.7.0",
+    "rimraf": "^2.6.3",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}
